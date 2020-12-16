@@ -6,14 +6,18 @@ using UnityEngine;
 public class Move : MonoBehaviour
 
 {
-    
     // speed of the object
     public float speed = 5f;
 
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("hello World!!");
+        if (true)
+
+        {
+            Debug.Log("hello World!!");
+
+        }
         
     }
 
